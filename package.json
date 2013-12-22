@@ -1,0 +1,17 @@
+{
+  "name": "express-dummy",
+  "version": "0.0.1",
+  "description": "get started with express/nodejs/coffee-script/grunt",
+  "author": "tehdb",
+  "license": "BSD",
+  "private": true,
+  "scripts": {
+    "start": "nodemon server.coffee"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "express": "3.x",
+    "grunt": "~0.4.1",
+    "grunt-contrib-watch": "~0.5.3"
+  }
+}
