@@ -1,6 +1,8 @@
 express dummy
 ==============
 
+get started with express/nodejs/coffee-script/grunt
+
 prerequisites
 --------------
 
@@ -11,12 +13,12 @@ prerequisites
 
 local packages
 --------------
-´´´
+```bash
 npm install
-´´´
+```
 
 start server
 --------------
-´´´
+```bash
 npm start
-´´
+```
