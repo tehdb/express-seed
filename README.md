@@ -1,4 +1,4 @@
-express dummy
+express-seed
 ==============
 
 get started with express/nodejs/coffee-script/grunt
